@@ -8269,3 +8269,5 @@
 13345;DE;TH;-;Landkreis Gotha;-;Georgenthal/Thüringer Wald;10.6527467113274;50.8121679556405;99887
 13346;DE;TH;-;Landkreis Gotha;-;Tabarz/Thüringer Wald;10.4700614129452;50.8729201229379;99891
 13347;DE;TH;-;Landkreis Gotha;-;Tambach-Dietharz/Thüringen;10.6044725007752;50.7697621407794;99897
+5252;DE;SN;Leipzig;Kreisfreie Stadt Leipzig;-;Leipzig;12.2630	;51.3532;04178
+
